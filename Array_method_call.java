@@ -3,7 +3,7 @@ package com.virtusa.core;
 public class Array_method_call {
 
 	public static void main(String[] args) {
-		
+		System.out.println("Array Progamm using method approach");
 		int ary[]=createArry();
 		printArray(ary);
 	}
